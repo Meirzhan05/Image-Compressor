@@ -26,6 +26,7 @@ This Python script uses the K-Means clustering algorithm to compress images by r
 2. Run the script:
 ```bash
 python main.py
+```
 3. When prompted, enter the name of your image file.
 4. The script will display the original and compressed images, along with memory usage statistics.
 
